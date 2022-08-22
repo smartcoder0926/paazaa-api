@@ -1,0 +1,37 @@
+_id: req_94e790a039864c06adf10f0558d41b46
+type: Request
+parentId: fld_1f46cc84dc6a457faeb054b601c6b381
+modified: 1660759957313
+created: 1660759569154
+url: "{{ _.baseUrl }}admin/popa/pictures/content-entities"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "name": "string",
+      "customUrl": "string",
+      "slug": "string",
+      "metaItems": [
+        {
+          "contentTypeFieldId": 0,
+          "strValue": "string"
+        }
+      ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5183a2479d0645cc852d57ae32917244
+authentication: {}
+metaSortKey: -1660271382914.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

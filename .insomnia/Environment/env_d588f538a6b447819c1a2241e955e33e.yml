@@ -1,0 +1,14 @@
+_id: env_d588f538a6b447819c1a2241e955e33e
+type: Environment
+parentId: env_a0b2d34bd4cb4e7c3f69f16cf5453bd2cd886b67
+modified: 1660921746808
+created: 1660743315164
+name: pro
+data:
+  baseUrl: https://api.paazaa.com/paazaa/api/
+dataPropertyOrder:
+  "&":
+    - baseUrl
+color: "#001eff"
+isPrivate: false
+metaSortKey: 1660743315164

@@ -1,0 +1,21 @@
+_id: req_10f7c5fedf544d6ea9b62958db560d48
+type: Request
+parentId: fld_1f46cc84dc6a457faeb054b601c6b381
+modified: 1660759960935
+created: 1660759569162
+url: "{{ _.baseUrl }}admin/popa/pictures/content-entities/18"
+name: update
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660192294702.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

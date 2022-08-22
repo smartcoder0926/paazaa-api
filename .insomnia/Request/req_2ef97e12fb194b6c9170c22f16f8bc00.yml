@@ -1,0 +1,21 @@
+_id: req_2ef97e12fb194b6c9170c22f16f8bc00
+type: Request
+parentId: fld_a4668cfc9bc841e6b0b4ab821dc922ad
+modified: 1660921930762
+created: 1660920291270
+url: "{{ _.baseUrl }}popa/Location/content-items/10"
+name: get
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660429559338.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

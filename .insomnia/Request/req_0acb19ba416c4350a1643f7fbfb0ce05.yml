@@ -1,0 +1,23 @@
+_id: req_0acb19ba416c4350a1643f7fbfb0ce05
+type: Request
+parentId: fld_e1edcfc258da42fbb14c8dcec574a29c
+modified: 1660760922589
+created: 1660760915634
+url: "{{ _.baseUrl }}admin/custom-user-fields/1"
+name: delete
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660172522649.9062
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

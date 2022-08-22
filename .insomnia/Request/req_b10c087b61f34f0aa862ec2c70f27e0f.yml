@@ -1,0 +1,21 @@
+_id: req_b10c087b61f34f0aa862ec2c70f27e0f
+type: Request
+parentId: fld_8784ed1a9b294688806d426d3fee2cb7
+modified: 1660760972192
+created: 1660760954191
+url: "{{ _.baseUrl }}super-admin/feature-options"
+name: get
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660429559338.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

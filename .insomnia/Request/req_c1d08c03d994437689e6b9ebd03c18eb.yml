@@ -1,0 +1,21 @@
+_id: req_c1d08c03d994437689e6b9ebd03c18eb
+type: Request
+parentId: fld_139c63f7192d413589c01738705951ab
+modified: 1660761559613
+created: 1660761352865
+url: "{{ _.baseUrl }}cms/urls"
+name: get
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660429559338.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

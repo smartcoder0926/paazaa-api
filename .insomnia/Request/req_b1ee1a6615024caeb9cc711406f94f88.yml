@@ -1,0 +1,30 @@
+_id: req_b1ee1a6615024caeb9cc711406f94f88
+type: Request
+parentId: fld_4760f45f631844ba86a54728d8817fbe
+modified: 1660761330194
+created: 1660761119440
+url: "{{ _.baseUrl }}{app}/{contentType}/content-items/{contentItemId}/asset-items"
+name: delete
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - id: pair_206a23b9aac84a7e8a9c7c8b1041d1c4
+    name: id
+    value: "1"
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5183a2479d0645cc852d57ae32917244
+authentication: {}
+metaSortKey: -1660231838808.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

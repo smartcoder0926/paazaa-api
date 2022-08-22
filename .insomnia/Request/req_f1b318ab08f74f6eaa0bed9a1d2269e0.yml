@@ -1,0 +1,21 @@
+_id: req_f1b318ab08f74f6eaa0bed9a1d2269e0
+type: Request
+parentId: fld_30cf2bbcb61d4c9e84e2026d49d4d169
+modified: 1660759552919
+created: 1660759519744
+url: "{{ _.baseUrl }}admin/audit"
+name: get
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660429559338.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,23 @@
+_id: req_01c896298be64b31961f1da6613d2d79
+type: Request
+parentId: fld_a4668cfc9bc841e6b0b4ab821dc922ad
+modified: 1660921912229
+created: 1660920291286
+url: "{{ _.baseUrl }}popa/Location/content-items/9"
+name: delete
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660172522649.9062
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

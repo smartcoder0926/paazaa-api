@@ -1,0 +1,40 @@
+_id: req_a96a9713646f46798856356c394a357e
+type: Request
+parentId: fld_8784ed1a9b294688806d426d3fee2cb7
+modified: 1660761001643
+created: 1660760954196
+url: "{{ _.baseUrl }}super-admin/feature-options"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "id": 0,
+      "optionType": "ContentTypeCountLimit",
+      "name": "string",
+      "description": "string",
+      "entityName": "string",
+      "contentTypeName": "string",
+      "limit": 0,
+      "extraProperties": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      }
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5183a2479d0645cc852d57ae32917244
+authentication: {}
+metaSortKey: -1660271382914.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

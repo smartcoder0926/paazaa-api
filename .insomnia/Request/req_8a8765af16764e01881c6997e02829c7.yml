@@ -1,0 +1,31 @@
+_id: req_8a8765af16764e01881c6997e02829c7
+type: Request
+parentId: fld_ffbb0ba38bd14e99a8269011f20e5062
+modified: 1660760525745
+created: 1660760499536
+url: "{{ _.baseUrl }}admin/customer/payment-methods/1/set-default"
+name: Set default
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - id: pair_af1838b2dfb64ff4aeb83f82b6eaa745
+    name: stripePlanId
+    value: "0"
+    description: ""
+  - id: pair_31255e69b52944d48c7f0c0fed890cc3
+    name: stripePlanId
+    value: "1"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1660330699073.6562
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_086402e641cd4eb6a4595578d19bc9f6
+type: Request
+parentId: fld_1f46cc84dc6a457faeb054b601c6b381
+modified: 1660759905936
+created: 1660759569159
+url: "{{ _.baseUrl }}admin/popa/pictures/content-entities/18"
+name: getOne
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660350471126.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

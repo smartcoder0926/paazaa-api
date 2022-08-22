@@ -1,0 +1,21 @@
+_id: req_8acc45e2dc58441a963472ffec02212c
+type: Request
+parentId: fld_f9244a7c3f9e47e2baf8b30466e4b2cf
+modified: 1660759423119
+created: 1660746000210
+url: "{{ _.baseUrl }}super-admin/apps"
+name: get
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660429559338.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_2e75b116b5fa43e887fabb89343a2564
+type: Request
+parentId: fld_fdec3a5bfdbd499ba8d5112caf667830
+modified: 1660761044894
+created: 1660761020854
+url: "{{ _.baseUrl }}page-app/admin/footers/default"
+name: get
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660429559338.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

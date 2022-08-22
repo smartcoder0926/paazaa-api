@@ -1,0 +1,21 @@
+_id: req_62187e96930e4501a57f4a3d7e6c8f49
+type: Request
+parentId: fld_4e2c3f7f08bb4d639243adfdbf20639f
+modified: 1660760036934
+created: 1660759993555
+url: "{{ _.baseUrl }}admin/popa/content-types/Link"
+name: getOne
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660350471126.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

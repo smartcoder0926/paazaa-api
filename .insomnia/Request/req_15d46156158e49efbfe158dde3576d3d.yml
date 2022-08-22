@@ -1,0 +1,37 @@
+_id: req_15d46156158e49efbfe158dde3576d3d
+type: Request
+parentId: fld_4760f45f631844ba86a54728d8817fbe
+modified: 1660761319651
+created: 1660761112299
+url: "{{ _.baseUrl }}{app}/{contentType}/content-items/{contentItemId}/asset-items"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    [
+      {
+        "id": 0,
+        "url": "string",
+        "metaType": "string"
+      }
+    ]
+parameters:
+  - id: pair_206a23b9aac84a7e8a9c7c8b1041d1c4
+    name: id
+    value: "1"
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5183a2479d0645cc852d57ae32917244
+authentication: {}
+metaSortKey: -1660271382914.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

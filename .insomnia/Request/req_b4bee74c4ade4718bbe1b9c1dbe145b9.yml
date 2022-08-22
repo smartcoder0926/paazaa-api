@@ -1,0 +1,53 @@
+_id: req_b4bee74c4ade4718bbe1b9c1dbe145b9
+type: Request
+parentId: fld_e1edcfc258da42fbb14c8dcec574a29c
+modified: 1660760910368
+created: 1660760849077
+url: "{{ _.baseUrl }}admin/custom-user-fields/1"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "id": 0,
+      "fieldName": "string",
+      "displayText": "string",
+      "fieldType": "Image",
+      "htmlTemplate": "string",
+      "renderSetting": {
+        "format": "string",
+        "baseClass": "string",
+        "properties": "string"
+      },
+      "settings": {
+        "detailType": 0,
+        "defaultValue": "string",
+        "required": true,
+        "unique": true,
+        "hasMaximumValue": true,
+        "maximumValue": "string",
+        "hasMinimumValue": true,
+        "minimumValue": "string",
+        "private": true,
+        "maximumLength": 0,
+        "minimumLength": 0,
+        "extraSettings": "string",
+        "contentTypeName": "string"
+      }
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_4b6425c9c3e6407cbd388660d8b7e55f
+authentication: {}
+metaSortKey: -1660192294702.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

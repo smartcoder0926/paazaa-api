@@ -1,0 +1,70 @@
+_id: req_f0925663ea89438186f1a842a6d5991d
+type: Request
+parentId: fld_4e2c3f7f08bb4d639243adfdbf20639f
+modified: 1660760069662
+created: 1660759993552
+url: "{{ _.baseUrl }}admin/popa/content-types"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "name": "string",
+      "displayText": "string",
+      "slug": "string",
+      "htmlTemplate": "string",
+      "renderSetting": {
+        "format": "string",
+        "baseClass": "string",
+        "properties": "string"
+      },
+      "settings": {
+        "detailType": 0,
+        "private": true,
+        "extraSettings": "string"
+      },
+      "contentTypeFields": [
+        {
+          "fieldName": "string",
+          "displayText": "string",
+          "fieldType": "Image",
+          "htmlTemplate": "string",
+          "renderSetting": {
+            "format": "string",
+            "baseClass": "string",
+            "properties": "string"
+          },
+          "settings": {
+            "detailType": 0,
+            "defaultValue": "string",
+            "required": true,
+            "unique": true,
+            "hasMaximumValue": true,
+            "maximumValue": "string",
+            "hasMinimumValue": true,
+            "minimumValue": "string",
+            "private": true,
+            "maximumLength": 0,
+            "minimumLength": 0,
+            "extraSettings": "string",
+            "contentTypeName": "string"
+          }
+        }
+      ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5183a2479d0645cc852d57ae32917244
+authentication: {}
+metaSortKey: -1660271382914.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

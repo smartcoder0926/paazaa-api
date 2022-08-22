@@ -1,0 +1,10 @@
+_id: fld_3e40e65a0baf4d86a66263cfdb18baa0
+type: RequestGroup
+parentId: wrk_11fc15bc136441b98d422a49d412d281
+modified: 1660760754599
+created: 1660760753145
+name: CustomUserFieldItems
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1651088918795.625

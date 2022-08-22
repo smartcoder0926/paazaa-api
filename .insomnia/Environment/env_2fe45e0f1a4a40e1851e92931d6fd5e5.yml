@@ -1,0 +1,14 @@
+_id: env_2fe45e0f1a4a40e1851e92931d6fd5e5
+type: Environment
+parentId: env_a0b2d34bd4cb4e7c3f69f16cf5453bd2cd886b67
+modified: 1660921756887
+created: 1660921734766
+name: ding-tenant
+data:
+  baseUrl: https://api.paazaa.com/ding-tenant/api/
+dataPropertyOrder:
+  "&":
+    - baseUrl
+color: "#00ff2a"
+isPrivate: false
+metaSortKey: 1660921734766

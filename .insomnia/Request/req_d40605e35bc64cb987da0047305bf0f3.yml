@@ -1,0 +1,36 @@
+_id: req_d40605e35bc64cb987da0047305bf0f3
+type: Request
+parentId: fld_a4668cfc9bc841e6b0b4ab821dc922ad
+modified: 1660927409060
+created: 1660920291281
+url: "{{ _.baseUrl }}popa/Location/content-items/10"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id": 10,
+    	"name": "Location",
+    	"customUrl": "Location",
+    	"slug": "Location",
+    	"metaItems": {
+    		"City": "1111111",
+    		"Country": "22222"
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_4b6425c9c3e6407cbd388660d8b7e55f
+authentication: {}
+metaSortKey: -1660192294702.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

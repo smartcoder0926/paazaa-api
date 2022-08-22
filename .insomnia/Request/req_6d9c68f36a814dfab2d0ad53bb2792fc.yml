@@ -1,0 +1,32 @@
+_id: req_6d9c68f36a814dfab2d0ad53bb2792fc
+type: Request
+parentId: fld_3e40e65a0baf4d86a66263cfdb18baa0
+modified: 1660760927411
+created: 1660760753169
+url: "{{ _.baseUrl }}admin/custom-user-field-items/1"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    [
+      {
+        "customUserFieldId": 0,
+        "strValue": "string"
+      }
+    ]
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_4b6425c9c3e6407cbd388660d8b7e55f
+authentication: {}
+metaSortKey: -1660192294702.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

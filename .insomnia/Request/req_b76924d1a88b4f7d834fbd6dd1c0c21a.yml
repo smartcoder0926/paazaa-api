@@ -1,0 +1,25 @@
+_id: req_b76924d1a88b4f7d834fbd6dd1c0c21a
+type: Request
+parentId: fld_4cb5683af026484a95a8304278bb4ff7
+modified: 1660760334642
+created: 1660760240127
+url: "{{ _.baseUrl }}admin/customer/subscribe"
+name: subscribe
+description: ""
+method: POST
+body: {}
+parameters:
+  - id: pair_8810f70a59f345d98a33704cb332413d
+    name: stripePlanId
+    value: "0"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1660429559338.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

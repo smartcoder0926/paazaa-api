@@ -1,0 +1,21 @@
+_id: req_0603a2d85ff742dfa14597c5720df32d
+type: Request
+parentId: fld_8784ed1a9b294688806d426d3fee2cb7
+modified: 1660761004266
+created: 1660760954205
+url: "{{ _.baseUrl }}super-admin/feature-options/1"
+name: delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660152750596.9375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

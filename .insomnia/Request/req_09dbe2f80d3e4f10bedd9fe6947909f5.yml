@@ -1,0 +1,21 @@
+_id: req_09dbe2f80d3e4f10bedd9fe6947909f5
+type: Request
+parentId: fld_f9244a7c3f9e47e2baf8b30466e4b2cf
+modified: 1660759498803
+created: 1660759495169
+url: "{{ _.baseUrl }}super-admin/apps/1"
+name: update
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660192294702.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

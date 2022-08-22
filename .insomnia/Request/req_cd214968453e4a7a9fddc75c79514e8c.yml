@@ -1,0 +1,30 @@
+_id: req_cd214968453e4a7a9fddc75c79514e8c
+type: Request
+parentId: fld_fdec3a5bfdbd499ba8d5112caf667830
+modified: 1660761069174
+created: 1660761020857
+url: "{{ _.baseUrl }}page-app/admin/footers/default"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - id: pair_206a23b9aac84a7e8a9c7c8b1041d1c4
+    name: id
+    value: "1"
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5183a2479d0645cc852d57ae32917244
+authentication: {}
+metaSortKey: -1660271382914.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

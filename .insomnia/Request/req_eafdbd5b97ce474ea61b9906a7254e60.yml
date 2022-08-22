@@ -1,0 +1,21 @@
+_id: req_eafdbd5b97ce474ea61b9906a7254e60
+type: Request
+parentId: fld_4760f45f631844ba86a54728d8817fbe
+modified: 1660761306561
+created: 1660761112294
+url: "{{ _.baseUrl }}{app}/{contentType}/content-items/{contentItemId}/asset-items"
+name: get
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660429559338.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

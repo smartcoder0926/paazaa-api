@@ -1,0 +1,39 @@
+_id: req_fe6b8f257dbc4822bc0afdeae97c73f8
+type: Request
+parentId: fld_e31ff60210564d28bd34ab86ae3149a0
+modified: 1660760653770
+created: 1660760634563
+url: "{{ _.baseUrl }}admin/customer/send-email"
+name: send-email
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "subject": "string",
+      "toEmails": [
+        "string"
+      ],
+      "cc": [
+        "string"
+      ],
+      "bcc": [
+        "string"
+      ],
+      "body": "string"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b369c308af1e4bf4b82aa52341d44b70
+authentication: {}
+metaSortKey: -1655834428355.3438
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

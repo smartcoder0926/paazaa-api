@@ -1,0 +1,48 @@
+_id: req_f59da5b2fd0e462098b5ce2e928a1ee8
+type: Request
+parentId: fld_a4668cfc9bc841e6b0b4ab821dc922ad
+modified: 1661146622299
+created: 1660920291276
+url: "{{ _.baseUrl }}popa/POPACollection/content-items"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Link",
+    	"customUrl": "Link",
+    	"slug": "Link",
+    	"metaItems": {
+    		"Items": [
+    			{
+    				"Title": "Title",
+    				"ImageUrl": "ImageUrl",
+    				"Url": "Url"
+    			},
+    			{
+    				"Title": "Title",
+    				"ImageUrl": "ImageUrl",
+    				"Url": "Url"
+    			}
+    		],
+    		"CollectionType": "CollectionType",
+    		"ContentType": "Link",
+    		"Title": "Title"
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5183a2479d0645cc852d57ae32917244
+authentication: {}
+metaSortKey: -1660271382914.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

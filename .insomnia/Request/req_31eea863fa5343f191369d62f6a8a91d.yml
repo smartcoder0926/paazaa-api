@@ -1,0 +1,21 @@
+_id: req_31eea863fa5343f191369d62f6a8a91d
+type: Request
+parentId: fld_3e40e65a0baf4d86a66263cfdb18baa0
+modified: 1660760777811
+created: 1660760753151
+url: "{{ _.baseUrl }}admin/custom-user-field-items/1"
+name: get
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660429559338.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_14ece66fd62c4d448d3b3bdb1431c261
+type: Request
+parentId: fld_ffbb0ba38bd14e99a8269011f20e5062
+modified: 1660760399146
+created: 1660760373248
+url: "{{ _.baseUrl }}admin/customer/payment-methods"
+name: get
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660429559338.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

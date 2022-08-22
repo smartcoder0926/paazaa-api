@@ -1,0 +1,21 @@
+_id: req_0bea9ea9bdb34ca2ade6ecc307569dad
+type: Request
+parentId: fld_e31ff60210564d28bd34ab86ae3149a0
+modified: 1660760554567
+created: 1660760539355
+url: "{{ _.baseUrl }}admin/customer/subscriptions"
+name: subscriptions
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659850598646.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_3e5456cee54845a4897cd9c7f398d0d4
+type: Request
+parentId: fld_e31ff60210564d28bd34ab86ae3149a0
+modified: 1660760622605
+created: 1660760567309
+url: "{{ _.baseUrl }}admin/customer/pay"
+name: pay
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - id: pair_86d01c7488b841e4bf3ce518a39514cd
+    name: amount
+    value: integer
+    description: ""
+  - id: pair_03904ea60f594b7fb9abb86ca259c9d8
+    name: token
+    value: string
+    description: ""
+  - id: pair_d5675ab654104709a64a994331437384
+    name: description
+    value: string
+    description: ""
+authentication: {}
+metaSortKey: -1657173151785.6875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

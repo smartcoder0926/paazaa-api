@@ -1,0 +1,21 @@
+_id: req_ac9ddde626fc4d4a83dec78cab121e61
+type: Request
+parentId: fld_1f46cc84dc6a457faeb054b601c6b381
+modified: 1660759963188
+created: 1660759569165
+url: "{{ _.baseUrl }}admin/popa/pictures/content-entities/18"
+name: delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660152750596.9375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
